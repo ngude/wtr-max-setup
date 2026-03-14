@@ -12,17 +12,17 @@ apt install -y wireguard resolvconf natpmpc curl jq git vim
 # specify wireguard config (previously generated, paste into wg0.conf)
 vim /etc/wireguard/wg0.conf
 
-# start wireguard
-#check your IP before starting so we can compare public IPs
+# start wireguard and check your IP before starting so we can compare pre/post vpn ip
 curl ifconfig.me
 wg-quick up wg0
 systemctl enable wg-quick@wg0
 
-# test to make sure wg is up
 # check wireguard connection
 wg show
+
 # check the public IP again, it should differ
 curl ifconfig.me
+
 # check if port forwarding is enabled and what port we have
 natpmpc -g 10.2.0.1 -a 1 0 tcp 60
 
