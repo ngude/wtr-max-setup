@@ -2,6 +2,7 @@
 
 - 2x 512gb ssd, zfs raid 1
 - 1x 1tb ssd, ext4
+- https://smeyer.ca/posts/build-a-proxmox-host-on-a-minisforum-ms-01-6851f6120e033e001c52b632/
 
 ## qbit w/ protonvpn with port update script
 - https://github.com/Simon-CR/qbittorrent-wireguard-pmp/ for port update sccript
