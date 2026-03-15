@@ -13,3 +13,8 @@
 
 - 
 
+## containers to add
+- https://community-scripts.org/scripts/memos?from=scripts&fromQ=mem
+- https://community-scripts.org/scripts/linkding?from=scripts&fromQ=link
+- https://community-scripts.org/scripts/headscale?from=scripts&fromQ=headscale
+- 
