@@ -14,7 +14,13 @@
 - 
 
 ## containers to add
-- https://community-scripts.org/scripts/memos?from=scripts&fromQ=mem
-- https://community-scripts.org/scripts/linkding?from=scripts&fromQ=link
-- https://community-scripts.org/scripts/headscale?from=scripts&fromQ=headscale
-- 
+- https://community-scripts.org/scripts/post-pve-install
+- https://community-scripts.org/scripts/memos
+- https://community-scripts.org/scripts/linkding
+- https://community-scripts.org/scripts/headscale
+- https://community-scripts.org/scripts/crafty-controller
+- https://community-scripts.org/scripts/caddy
+- https://community-scripts.org/scripts/teamspeak-server
+- https://community-scripts.org/scripts/gitea
+- https://community-scripts.org/scripts/cloudflare-ddns
+- https://community-scripts.org/scripts/pelican-panel
