@@ -1,4 +1,5 @@
 ## migrate away from cloudflare to porkbun
+## set up wireguard on router or vm for remote access
 
 ## proxmox general overview
 - 2x 512gb ssd, zfs raid 1
@@ -19,3 +20,4 @@
 - https://community-scripts.org/scripts/gitea OR https://community-scripts.org/scripts/forgejo
 - https://community-scripts.org/scripts/cloudflare-ddns
 - https://community-scripts.org/scripts/pelican-panel
+- unrealircd + anope + optional qwebirc or the lobby?
