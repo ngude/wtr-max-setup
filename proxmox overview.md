@@ -21,6 +21,6 @@
 - https://community-scripts.org/scripts/crafty-controller
 - https://community-scripts.org/scripts/caddy
 - https://community-scripts.org/scripts/teamspeak-server
-- https://community-scripts.org/scripts/gitea
+- https://community-scripts.org/scripts/gitea OR https://community-scripts.org/scripts/forgejo
 - https://community-scripts.org/scripts/cloudflare-ddns
 - https://community-scripts.org/scripts/pelican-panel
