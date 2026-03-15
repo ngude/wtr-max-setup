@@ -2,6 +2,7 @@
 - 2x 512gb ssd, zfs raid 1
 - 1x 1tb ssd, ext4
 - https://smeyer.ca/posts/build-a-proxmox-host-on-a-minisforum-ms-01-6851f6120e033e001c52b632/
+- https://www.reddit.com/r/opensource/comments/1q2giwl/running_self_hosted_open_source_privacy_services/
 
 ## reverse proxy for services with caddy
 - https://forum.proxmox.com/threads/proxmox-ui-caddy-and-reverse-proxy.83198/
