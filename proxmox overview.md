@@ -18,7 +18,6 @@
 - https://community-scripts.org/scripts/memos
 - https://community-scripts.org/scripts/linkding
 - https://community-scripts.org/scripts/headscale
-- https://community-scripts.org/scripts/crafty-controller
 - https://community-scripts.org/scripts/caddy
 - https://community-scripts.org/scripts/teamspeak-server
 - https://community-scripts.org/scripts/gitea OR https://community-scripts.org/scripts/forgejo
